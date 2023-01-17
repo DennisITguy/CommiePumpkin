@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CommiePumpkin
+- 👋 Hi, I’m @DennisITguy
 - 👀 I’m interested in computer coding and discovering new types of code.
 - 🌱 I’m currently learning several python libraries
 
